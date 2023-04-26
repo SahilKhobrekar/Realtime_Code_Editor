@@ -1,4 +1,4 @@
-# fly.toml file generated for codeeditor-backend on 2023-01-08T16:27:00+05:30
+# fly.toml file generated for codeeditor-backend 
 
 app = "codeeditor-backend"
 kill_signal = "SIGINT"
